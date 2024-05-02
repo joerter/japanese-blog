@@ -1,0 +1,57 @@
+#+TITLE: Job Summaries
+* STRATCOM
+** Projects
+*** STRADMS
+*** OPPORD
+** Challenges
+*** Just being young and not knowing anything but doing my best
+** Successes
+* John Deere
+** Projects
+*** CDF
+** Challenges
+*** Missed a sprint because I tried to go above and beyond what was required to complete the story. I learned a very valuable lesson in YAGNI
+** Successes
+*** Learned TDD
+*** Contributed to the team even though I was only there for a short time
+*** Displayed my ability to pick up things quickly
+* Phenomblue / Birdsnest
+** Projects
+*** Birdsnest
+*** Phenomblue.com
+*** Kung Fu Panda Sweepstakes
+*** Why Omaha
+*** Bellevue University Course Catalog Rating System
+*** Northeastern University
+** Challenges
+*** I learned how to be realistic in setting expectations with the business on what I can get done.
+*** One time I promised too much and had to work overtime in order to meet the deadline
+** Successes
+* Farm Credit Services of America
+** Projects
+*** Loan Accounting System
+*** Nitrogen Design System
+*** Rapid Prototype development
+*** Okta Authentication Integration
+** Challenges
+*** Team organization left me as the only one to finish up the Okta project
+**** And I came on late
+**** There were some initial issues, but I called in for help and got it figured out
+** Successes
+*** Loan accounting system was just a super successful project from my point of view
+*** I was a key player in the UI transformation
+*** Developed a prototype for Cost of Goods sold and got feedback from real customers
+*** Coding Dojo group had team building benefits
+* Passport
+** Projects
+*** Single Sign On
+*** Audit Trail
+*** Design System
+** Challenges
+*** Finding the time to do everything we see as neccessary
+** Successes
+* WaveCX
+** Projects
+*** Showcases
+** Challenges
+** Successes

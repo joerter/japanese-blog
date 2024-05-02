@@ -1,0 +1,105 @@
+#+TITLE: April 2022
+
+* 2022-04-01
+** Had interview with Chefman.
+*** I think it went well, but I could have done things better as always
+*** We'll see what they say
+*** I'm still not sure if it's the right move for me or not...
+** I talked with Dagna Bieda about career coaching
+*** She seems good but it costs $4000
+*** Probably not worth it for me right now
+*** I think I can get to where I need to be by marketing myself better on Linkedin and redgreenrefactor
+** Rachel and I went to a comedy show!
+*** It was so funny because the meetup group was so awkward
+* 2022-04-02
+** We went to a cider mill. It was very fall and nice
+** We got a double order of cider flights and got a little tipsy lol
+** We played 4 across and bags
+* 2022-04-05
+** I had a call with Jordan and Rebecca from glocomms today
+** They told me that chefman had an offer for me.
+** I told them my initial thoughts which where that I wasn't ready to take an offer
+** They were confused since it's the amount of money I asked for, but it just still didn't seem right to me
+** I really didn't like Rebecca's tone in particular. She kept tyring to sell me which I didn't like at all
+** It turned me off even more to it instead of convincing me
+** Then I met with Jon and Jon from wavecx!
+*** It seems like the perfect opportunity for me if the pay and benefits line up
+*** It would be an opportunity to take ownership and pave the way in a company
+* 2022-04-06
+** I did some tax work with Brett today.
+*** Got caught up on things and he had some trouble with MA
+*** They wanted 2k taxes
+*** He's gonna figure it out
+** Working on SSO at work
+*** It's pretty fun actually to figure out
+* 2022-04-07
+** Working on portal sso today
+** Also researching lambda timeouts. Right now we think it could be about serverless version and api gateway caching
+* 2022-04-08
+** Going to Plymouth today!
+* 2022-04-11
+** Plymouth weekend was good!
+** Went to pearl's bday party, watched F1, and hung out. It was relaxing.
+** Working on WaveCX today. I just got the front end setup and am set to work on the video portion now
+** I'm doing the team lead activities this week at work. Hopefully i do good!
+* 2022-04-12
+** I demoed my spike story about SSO today and it went well.
+** Rachel's back is still hurting her and I'm worried for her. I'm trying to be empathetic
+** I got a haircut that is a bit uneven. I was going for something more modern
+* 2022-04-13
+** I demoed the SSO stuff at sprint demo today
+** Rachel and I went to happy hour at a cool restraunt
+** I met up with Shashank and he talked to me about a new project he's working on
+* 2022-04-14
+** I talked with WaveCX some more.
+** I feel like I really understand the product better now, and I really like it
+** I think it has a lot of applications and fills in a real gap that's needed to be filled
+** Feeling very ignored and rejected by Rachel right now. I guess I need to renew my commitment
+* 2022-04-15
+** Traveling to Plymouth today
+** Working on wavecx
+* 2022-04-16
+** Pre easter stuff in plymouth!
+* 2022-04-17
+** Happy Easter!
+** Discovered the Jordan Harbinger show and it's pretty good
+* 2022-04-18
+** Back at it today. Not feeling great. I want to just give up on Rachel initiating anything
+** Trying to find birthday gifts for her. I hope she likes them.
+** Feeling very blah today.
+** Talked with a recruiter from uphold. He had a family emergency and had to leave
+* 2022-04-19
+** Synced up with Scot from uphold and got a fun take home to work with their api
+* 2022-04-20
+** Working on SSO still
+** Feeling pretty depressed about no affection and no sex
+* 2022-04-21
+** Rachel asked me to cuddle in the morning and we had sex!
+** I still feel like she's not really into it though...
+** Talked with Jon about WaveCX
+*** I feel better about the offer of 130k + 2% equity
+*** I would really like to get to 4%
+*** He's going to get back to me on the legal part of the shares, benefits, and more equity
+*** My calculation is going to be any offer I can get from Uphold or Dina and calculate what I would get from a buyout and what salary I would be missing
+* 2022-04-22
+** Writing this from gate B32!
+** On our way to Palm Beach
+** Everyone at security was stressed but we made it
+* 2022-04-23
+** Audition today!
+** Installed a VPN
+** We toured a cool lighthouse in Jupiter
+** Had some delicious iced coffee with coffee cubes
+** I hung out at the Palm Beach library while Rachel had her audition
+** Rachel's family is being so nice to Penny on her birthday!
+* 2022-04-29
+** I am getting ready for my Dina interview.
+** Not sure how I'm feeling. WaveCX is where my heart wants to be, but it's a big risk
+*** No health insurance and marketplace plans would cost us ~$700/month
+** Not sure if I would really like working at Dina...
+** Well, I just got done with my interview and now I am really excited about it
+** It would give me the leadership opportunity I want while working with great people and doing cool stuff
+** We'll see. I need to tell WaveCX no now probably. But we'll see if they even give me an offer in the first place
+* 2022-04-30
+** In plymouth
+** Hanging out while rachel is getting nails done with her mom
