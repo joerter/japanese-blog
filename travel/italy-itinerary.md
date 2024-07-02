@@ -106,6 +106,10 @@ title: Italy Itinerary
     - Includes lunch
     - Approximately 1.5 hours
 
+## July 12
+- The Chair Lift Anacapri
+    - [Website](https://www.capriseggiovia.it/en/index.html)
+
 ## July 13
 - 11:00 - Checkout from Hotel Savoia
 - 12:30 - Positano → Beverello
