@@ -91,7 +91,7 @@ title: Italy Itinerary
     - POSITANO JET
     - Ferryhopper code **FH28XW7168IL**
 - 11:45 - Arrive in Positano
-- (Unknown) - Hotel Savoia
+- 14:00 - Hotel Savoia
     - [Website](https://savoiapositano.it/)
     - Reservation ID: **ERIC_16561824**
     - PIN Code: **99799**
