@@ -73,6 +73,8 @@ title: Italy Itinerary
     - [Website](https://paolinocapri.com/en/)
 
 ## July 8
+- The Chair Lift Anacapri
+    - [Website](https://www.capriseggiovia.it/en/index.html)
 - 12:00 - Ticket to Ride: Capri Private Gozzo Boat Tour di Capri Let It Be
     - 3 hours
     - Reservation code **#RBMZRDVA**
@@ -107,8 +109,8 @@ title: Italy Itinerary
     - Approximately 1.5 hours
 
 ## July 12
-- The Chair Lift Anacapri
-    - [Website](https://www.capriseggiovia.it/en/index.html)
+- Il Sentiero degli Dei Hike
+    - [Website](https://www.positano.com/en/e/il-sentiero-degli-dei)
 
 ## July 13
 - 11:00 - Checkout from Hotel Savoia
