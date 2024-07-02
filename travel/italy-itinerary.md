@@ -107,7 +107,7 @@ title: Italy Itinerary
     - Approximately 1.5 hours
 
 ## July 13
-- (Unknown) - Checkout from Hotel Savoia
+- 11:00 - Checkout from Hotel Savoia
 - 12:30 - Positano → Beverello
     - POSITANO JET
     - Ferryhopper code **FH42DL9135QJ**
