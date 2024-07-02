@@ -67,6 +67,10 @@
     - Meeting point: Bar Fortino - Marina Grande (Capri)
     - Our meeting point is the Pentagono bar in Piazza Angelo Ferraro, 5, Capri,
 
+## July 9
+- 10:30 - Luigi ai Faraglioni Beach Club
+    - Reservation code: **#RTJCBWMH**
+
 ## July 10
 - 11:00 - Checkout
 - 11:15 - Capri → Positano
