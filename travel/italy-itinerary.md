@@ -9,6 +9,7 @@ title: Italy Itinerary
 - 18:10 - Flight DL 112 to Rome, 8 hr 5min flight time
 	- Confirmation number: **HT2HK9**
     - Carry on bag each, 1 checked bag each (50 lbs)
+
 ## July 3
 - 8:15 - Land in Rome Fiumicino
 - Transportation to hotel via Leanoardo Express to Roma Termini
@@ -30,12 +31,15 @@ title: Italy Itinerary
 
 ## July 5
 - 9:00 - Tour of Colosseum with Arena Floor Access and Ancient Rome
+    - Unknown duration
     - Viator Confirmation number: 1536121023
     - Booking reference number: 1150894265
+    - Unknown duration
     - +1-702-648-5873
     - Meet inside 'Colle Oppio Park', in front of the Oppio Caffè Bar
     - Please arrive 25 minutes before the tour starts.
 - 17:30 - Rome Cooking Class: Fettuccine & Tiramisu Lovers Workshop
+    - Arrive 10 minutes early
     - Oste Cavour - Ristorante Roma Prati - Piazza Cavour, 19/21, 00193 Roma RM, Italy
     - Viator Booking Reference: **BR-1147731789**
     - Eat and Walk Italy - eatandwalkitaly@gmail.com - +393922324104
@@ -75,6 +79,7 @@ title: Italy Itinerary
 ## July 9
 - 10:30 - Luigi ai Faraglioni Beach Club
     - Reservation code: **#RTJCBWMH**
+    - 7 hours
 
 ## July 10
 - 11:00 - Checkout
@@ -96,6 +101,7 @@ title: Italy Itinerary
     - For our experiences we strongly recommend the use of comfortable shoes, preferably sports or trekking shoes.
 
 ## July 13
+- (Unknown) - Checkout from Hotel Savoia
 - 12:30 - Positano → Beverello
     - POSITANO JET
     - Ferryhopper code **FH42DL9135QJ**
