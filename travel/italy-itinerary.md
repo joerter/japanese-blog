@@ -103,6 +103,8 @@ title: Italy Itinerary
         - I have an account here that has all info
     - It is strongly recommended to avoid coming to Amalfi by car, especially during the high season. Parking spaces in Amalfi are very limited and our venue does not have parking. To fully enjoy your experience, choose an alternative means of transport to reach our city. If you use Google Maps to find our company’s location, we recommend that you use the “pedestrian” option, not drive. Otherwise Google will guide you to a completely different location.
     - For our experiences we strongly recommend the use of comfortable shoes, preferably sports or trekking shoes.
+    - Includes lunch
+    - Approximately 1.5 hours
 
 ## July 13
 - (Unknown) - Checkout from Hotel Savoia
