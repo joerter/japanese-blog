@@ -28,6 +28,7 @@ title: Italy Itinerary
     - Booking reference number: 1150890449
     - Meet at Antico Café Candia at Via Candia, 153, 00192 Roma RM. Your guide will be holding a Walks sign.
     - Ends at St.Peter's Basilica
+    - Approximately 3 hours
 
 ## July 5
 - 9:00 - Tour of Colosseum with Arena Floor Access and Ancient Rome
@@ -38,16 +39,19 @@ title: Italy Itinerary
     - +1-702-648-5873
     - Meet inside 'Colle Oppio Park', in front of the Oppio Caffè Bar
     - Please arrive 25 minutes before the tour starts.
+    - Approximately 3 hours
 - 17:30 - Rome Cooking Class: Fettuccine & Tiramisu Lovers Workshop
     - Arrive 10 minutes early
     - Oste Cavour - Ristorante Roma Prati - Piazza Cavour, 19/21, 00193 Roma RM, Italy
     - Viator Booking Reference: **BR-1147731789**
     - Eat and Walk Italy - eatandwalkitaly@gmail.com - +393922324104
+    - Approximately 2.5 hours
 
 ## July 6
 - 11:00 - Entrance to QC Termeroma
     - Reservation number: **TRM2024722310041641** (may need to present ticket from email)
     - Bathing suit needed
+    - 5 hour day pass
 - 13:00 - Wellness Lunch
 
 ## July 7
