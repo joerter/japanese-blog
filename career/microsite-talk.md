@@ -1,3 +1,8 @@
+---
+layout: mylayout.njk
+title: Microsite Talk
+---
+
 # From Legacy to Modern: Our Experience Migrating a Complex Application with Microfrontends
 
 ## Abstract
@@ -34,6 +39,19 @@ to a modern frontend using microfrontends.
 - Thesis statement: "In this talk, I'll share our journey from AngularJS to React,
 highlighting the challenges we faced and the innovative solution we implemented
 using microfrontends."
+
+### Extra Notes
+- Please interrupt and ask questions. I’m sharing my experience and want to hear yours. That’s what motivated me to give this talk
+- Bring stickers for people to grab after with questions
+- 2016
+- Anyone developing in 2016?
+- Anyone remember angular js?
+- Still using angular js?
+- I had an angular js and browserify pipe line that was sweet
+- Show deprecation of angular along with other tech news in 2016
+
+- Who has found themselves in this situation where you perhaps need to rewrite to get off of an old or unsupported platform?
+- Not everything may be applicable, but I hope this talk inspires you or gives you ideas
 
 ## II. The Problem
 

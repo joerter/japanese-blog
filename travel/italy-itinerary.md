@@ -6,12 +6,14 @@ title: Italy Itinerary
 # Italy Itinerary
 
 ## July 2
-- 18:10 - Flight DL 112 to Rome, 8 hr 5min flight time
+- 22:03 - Flight DL 112 to Rome, 8 hr 5min flight time
+    - Terminal E
+    - Boarding at 21:08
 	- Confirmation number: **HT2HK9**
     - Carry on bag each, 1 checked bag each (50 lbs)
 
 ## July 3
-- 8:15 - Land in Rome Fiumicino
+- 11:30 - Land in Rome Fiumicino
 - Transportation to hotel via Leanoardo Express to Roma Termini
     - Tren Italia ticket machines to buy tickets, validate before getting on platform
         - Or use the app

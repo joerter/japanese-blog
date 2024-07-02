@@ -5,5 +5,5 @@ title: John's Diary
 
 # Welcome to the brain of John Oerter
 
-[Career](/carrer)
+[Career](/career)
 [Travel](/travel)
