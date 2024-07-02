@@ -1,3 +1,8 @@
+---
+layout: mylayout.njk
+title: Italy Itinerary
+---
+
 # Italy Itinerary
 
 ## July 2
